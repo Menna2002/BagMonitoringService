@@ -1,45 +1,29 @@
 # Bag Monitoring Service
 
-### Table
+## Overview
+### `Application Developed using the Master of Things platform`
+SmartBag Tracker is an IoT handbag/backpack monitoring application designed to help end users track their handbag's location and status (open or closed) in real-time. 
+The system uses IoT devices equipped with GPS and light intensity sensors to provide comprehensive monitoring and alert features.
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+## Features
+- **Real-time Tracking**: Monitor the handbag's location using GPS sensors.
+- **Status Monitoring**: Determine if the bag is opened or closed based on light intensity.
+- **User Authentication**: End users can log in with their Bag ID and password to track their bag.
+- **Customer Service Portal**: Allows customer service agents to register new bags, define sensors, and manage bag owner information.
+- **Map Integration**: Displays the bag's location on a map with customized markers.
+- **Historical Data**: Access historical location and status information.
+- **Email Alerts**: Sends email notifications to users if the bag is opened or moves outside a predefined geofenced area.
 
-### Fenced Code Block
+## Technical Implementation
+1. **Sensors**: Utilizes mot IoT Kit sensors for GPS and light intensity.
+2. **Virtual Sensors**: Each bag is represented by a virtual sensor ID, which tracks GPS location and light intensity.
+3. **Template Page**: Built a template page containing common components/plugins for use across all application pages.
+4. **Map Plugin**: Integrated a map plugin to display bag locations with customized marker icons.
 
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
+## Screenshots
+![Home Page](path/to/homepage-screenshot.png)
+![Tracking Page](path/to/trackingpage-screenshot.png)
+![Customer Service Page](path/to/customerservicepage-screenshot.png)
 
-### Footnote
-
-Here's a sentence with a footnote. [^1]
-
-[^1]: This is the footnote.
-
-### Heading ID
-
-### My Great Heading 
-{#custom-id}
-
-### Definition List
-
-term
-: definition
-
-### Strikethrough
-
-~~The world is flat.~~
-
-### Task List
-
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
-
+## Conclusion
+SmartBag Tracker provides a comprehensive solution for monitoring and tracking handbags, ensuring users can easily locate their bags and receive alerts for any unauthorized access or movement beyond a safe zone.
