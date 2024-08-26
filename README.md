@@ -20,7 +20,7 @@ The system uses IoT devices equipped with GPS and light intensity sensors to pro
 3. **Template Page**: Built a template page containing common components/plugins for use across all application pages.
 4. **Map Plugin**: Integrated a map plugin to display bag locations with customized marker icons.
 
-## Project Demo
+## Project Demo (youtube link)
 [![Bag Monitoring Service](https://img.youtube.com/vi/yMDzGy8Ukks/0.jpg)](https://www.youtube.com/watch?v=yMDzGy8Ukks&list=PLATvI0lqsAdNWEIsycNPKyvmuxMzmgL6L&autoplay=1)
 
 ## Conclusion
