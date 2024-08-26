@@ -21,7 +21,7 @@ The system uses IoT devices equipped with GPS and light intensity sensors to pro
 4. **Map Plugin**: Integrated a map plugin to display bag locations with customized marker icons.
 
 ## Project Demo
-![Bag Monitoring Service](https://drive.google.com/uc?export=view&id=1dflKUgTMcIl3Ru3RaWR5OSv2HS-X7HvJ)
+[![Bag Monitoring Service](https://img.youtube.com/vi/yMDzGy8Ukks/0.jpg)](https://www.youtube.com/watch?v=yMDzGy8Ukks&list=PLATvI0lqsAdNWEIsycNPKyvmuxMzmgL6L&autoplay=1)
 
 ## Conclusion
 SmartBag Tracker provides a comprehensive solution for monitoring and tracking handbags, ensuring users can easily locate their bags and receive alerts for any unauthorized access or movement beyond a safe zone.
